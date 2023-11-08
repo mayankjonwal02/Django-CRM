@@ -1,0 +1,4 @@
+django 
+mysqlclient==1.4.6
+mysql 
+mysql-connector

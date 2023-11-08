@@ -1,0 +1,21 @@
+django-admin startproject dcrm 
+
+cd dcrm
+
+python manage.py startapp website
+
+
+
+initializing git.....
+
+
+(myenv) D:\Django Projects\CRM app>git config --global user.name "mayankjonwal02"    
+
+(myenv) D:\Django Projects\CRM app>git config --global user.email "jonwal.1@iitj.ac.in"
+
+(myenv) D:\Django Projects\CRM app>git config --global push.default matching
+
+(myenv) D:\Django Projects\CRM app>git config --global alias.co checkout
+
+(myenv) D:\Django Projects\CRM app>git init
+Initialized empty Git repository in D:/Django Projects/CRM app/.git/
